@@ -76,4 +76,4 @@ elif page == "About":
 
 elif page == "Contact":
     st.title("✉️ Contact")
-    st.write("Reach us at contact@example.com")
+    st.write("Reach us at alijanjua@gmail.com")
